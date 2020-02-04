@@ -1,0 +1,130 @@
+#mainnav{
+	font-size: 1.25rem;
+	font-weight: 150;	
+}
+
+#mainnav .nav-link{
+	color: black; 
+}
+
+#mainnav .nav-link:hover{
+	color: #f72a64; 
+}
+
+#mainnav .navbar-brand{
+	color: #f72a64	
+}
+
+#mainnav.scrolled {
+    background: #d3d3d3;
+    transition: background 500ms;
+}
+
+body {
+	background-color: white;
+}
+
+#slogan{
+	padding-top: 125px;
+	font-size: 7rem;
+	font-family: 'Roboto';
+	font-weight: 700;
+	padding-right: 75px;
+}	
+
+span {
+	color:#f72a64; 
+}
+
+.arrowDown {
+	font-size: 2rem;
+	color: #7d7d7d;
+	margin-top: 2%;
+}
+
+.arrowDown.scrolled {
+	color: white;
+	transition: background 500ms;
+
+}
+
+.container-fluid{
+	margin: 0%;
+	padding: 0%;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 100%;
+}
+
+.ourMission{
+	color: black;
+	font-family: 'Roboto';
+	font-weight: 400;
+	font-size: 2.7rem;
+	padding-top: 20%;
+	padding-bottom: 0%;
+
+}
+
+.missionImg{
+	height: 750px;
+	margin-bottom: 0%:
+	padding: 0%; 
+	}
+
+#track1{
+	padding-left: 10%;
+	padding-top: 15%;
+}
+
+#track2{
+	padding-left: 10%;
+	padding-top: 12%;
+}
+#track3{
+	padding-left: 7%;
+	padding-right: 7%;
+	padding-top: 7%;
+}
+
+.trackName{
+	font-size: 1.7rem;
+	color: black;
+}
+
+.AIimg{
+	height: 500px;
+	padding-top: 10%; 
+	padding-left: 10%;
+}
+
+.WDimg{
+	height: 450px;
+	padding-top: 0%; 
+	padding-left: 10%;
+}
+
+.DSimg{
+	height: 400px;
+	padding-top: 0%; 
+	padding-left: 10%;
+	margin-bottom: 10%
+}
+
+
+h6{
+	color: black;
+	font-size: 0.5rem;
+}	
+
